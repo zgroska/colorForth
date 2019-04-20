@@ -8,6 +8,7 @@ Nem kaphat zöld / piros szöveget , de zöld / piros kiemelt szöveget kaphat a
 https://drive.google.com/file/d/1rBPCj3kDuRB1EoJSkiKysmicPX_v9exa/view?usp=sharing
 
 ```diff
-+ this text is highlighted in green
-- this text is highlighted in red
+- color
++ Forth
+
 ```
