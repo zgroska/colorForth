@@ -6,7 +6,7 @@ a)
 <a style="color: red">color</a><a style="color: #00b050">Forth</a>
 
 b)
-<a style="color: red">color</a><a style="color: #00b050">Forth</a> 
+<p style="color: red">color</p><a style="color: #00b050">Forth</a> 
 
 p{"color:red;"}foo
 
