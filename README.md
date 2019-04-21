@@ -8,7 +8,8 @@ a)
 b)
 <p style="color: red">color</p><a style="color: #00b050">Forth</a> 
 
-https://github.github.com/gfm/#example-145
+[GitHub Flavored Markdown Spec](https://github.github.com/gfm/#example-145)
+Version 0.29-gfm (2019-04-06
 
 <style>p{color:red;}</style>*foo*
 
