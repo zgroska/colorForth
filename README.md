@@ -31,3 +31,9 @@ piros/zöld kiemelt szöveget lehet a diff nyelvi sablon segítségével létreh
 Képként:
 colorForth
 https://drive.google.com/open?id=1j_sBegJhpddQG_dwtWwB1iBge_HKGr5I
+
+Linkek:
+
+[GFM - GitHub Flavored Markdown](https://github.github.com/gfm/)
+[Írás a GitHub-on](https://help.github.com/en/categories/writing-on-github#syntax-highlighting)
+[GitHub Markup](https://github.com/github/markup/tree/master#html-sanitization)
