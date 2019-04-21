@@ -8,8 +8,8 @@ a)
 b)
 <a style="color: red">color</a><a style="color: #00b050">Forth</a> 
 
-<style>p{color:red;}</style>
-*foo*
+<style>p{color:red;}*foo*</style>
+
 
 <!-- foo -->*bar*
 *baz*
