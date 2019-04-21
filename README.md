@@ -8,6 +8,8 @@ a)
 b)
 <p style="color: red">color</p><a style="color: #00b050">Forth</a> 
 
+https://github.github.com/gfm/#example-145
+
 <style>p{color:red;}</style>*foo*
 
 <style>p{color:red;}</style> *foo*
