@@ -1,4 +1,4 @@
-# ![colorForth](https://vectr.com/zgroska/b2XSTwfOpO.svg?width=314&height=35&select=b2XSTwfOpOpage0)
+8# ![colorForth](https://vectr.com/zgroska/b2XSTwfOpO.svg?width=314&height=35&select=b2XSTwfOpOpage0)
 
 Próba:
 
@@ -39,3 +39,9 @@ Linkek:
 [Írás a GitHub-on](https://help.github.com/en/categories/writing-on-github#syntax-highlighting)
 
 [GitHub Markup](https://github.com/github/markup/tree/master#html-sanitization)
+
+[MARKDOWN PARANCSIKONOK](https://gitpitch.com/docs/markdown-features/shortcuts/)
+
+[Hogyan lehet megőrizni a HTML formázást a GitHub readme fájlban feltöltéskor?](https://stackoverflow.com/questions/50786752/how-to-retain-html-formatting-in-github-readme-file-upon-upload)
+
+
