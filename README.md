@@ -1,15 +1,16 @@
 # ![colorForth](https://vectr.com/zgroska/b2XSTwfOpO.svg?width=314&height=35&select=b2XSTwfOpOpage0)
 
+Próba
 <a style="color: red">color</a><a style="color: #00b050">Forth</a>
-A <a style="color: red">color</a><a style="color: #00b050">Forth</a> 
+<a style="color: red">color</a><a style="color: #00b050">Forth</a> 
 
 
 
-Nem kaphat zöld / piros szöveget , 
+Nem tudom kiírni a README.md-ben piros/zöld színnel a 
 ![colorForth](https://vectr.com/zgroska/b2XSTwfOpO.svg?width=87.62&height=24&select=g6w1W6iIqO)
-zöld / piros kiemelt szöveget kaphat a diff nyelvi sablon segítségével. Példa:
+kifejezést.
 
-https://drive.google.com/file/d/1rBPCj3kDuRB1EoJSkiKysmicPX_v9exa/view?usp=sharing
+piros/zöld kiemelt szöveget lehet a diff nyelvi sablon segítségével létrehozni. Példa:
 
 ```diff
 - color
