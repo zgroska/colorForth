@@ -10,7 +10,8 @@ b)
 
 p{"color:red;"}foo
 
-
+<style>p{color:red;}</style>
+*foo*
 
 Nem tudom kiírni a README.md-ben piros/zöld színnel a 
 ![colorForth](https://vectr.com/zgroska/b2XSTwfOpO.svg?width=87.62&height=24&select=g6w1W6iIqO)
