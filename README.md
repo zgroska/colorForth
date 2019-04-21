@@ -8,11 +8,9 @@ a)
 b)
 <a style="color: red">color</a><a style="color: #00b050">Forth</a> 
 
-<style>p{color:red;}*foo*</style>
+p{color:red;}foo
 
 
-<!-- foo -->*bar*
-*baz*
 
 Nem tudom kiírni a README.md-ben piros/zöld színnel a 
 ![colorForth](https://vectr.com/zgroska/b2XSTwfOpO.svg?width=87.62&height=24&select=g6w1W6iIqO)
