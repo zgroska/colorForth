@@ -5,7 +5,9 @@ A <a style="color: red">color</a><a style="color: #00b050">Forth</a>
 
 
 
-Nem kaphat zöld / piros szöveget , ![](https://vectr.com/zgroska/b2XSTwfOpO.png?width=78&height=18&select=g6w1W6iIqO) zöld / piros kiemelt szöveget kaphat a diff nyelvi sablon segítségével. Példa:
+Nem kaphat zöld / piros szöveget , 
+![](https://vectr.com/zgroska/b2XSTwfOpO.png?width=78&height=18&select=g6w1W6iIqO)
+zöld / piros kiemelt szöveget kaphat a diff nyelvi sablon segítségével. Példa:
 
 https://drive.google.com/file/d/1rBPCj3kDuRB1EoJSkiKysmicPX_v9exa/view?usp=sharing
 
