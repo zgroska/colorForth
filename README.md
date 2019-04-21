@@ -1,4 +1,4 @@
-# ![colorForth](https://vectr.com/zgroska/b2XSTwfOpO.svg?width=314&height=35&select=b2XSTwfOpOpage0)újrafelfedezése
+# ![colorForth](https://vectr.com/zgroska/b2XSTwfOpO.svg?width=314&height=35&select=b2XSTwfOpOpage0)
 
 <a style="color: red">color</a><a style="color: #00b050">Forth</a>
 A <a style="color: red">color</a><a style="color: #00b050">Forth</a> 
