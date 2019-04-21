@@ -11,9 +11,9 @@ b)
 [GitHub Flavored Markdown Spec](https://github.github.com/gfm/#example-145)
 Version 0.29-gfm (2019-04-06
 
-<style>p{color:red;}</style>*foo*
+<style>p{color: #00b050;}</style>*foo*
 
-<style>p{color:red;}</style> *foo*
+<style>p{color:#00b050;}</style> *foo*
 
 p{"color:red;"}foo
 
