@@ -1,7 +1,7 @@
 # <a style="color: red">color</a><a style="color: #00b050">Forth</a>
 A <a style="color: red">color</a><a style="color: #00b050">Forth</a> újrafelfedezése
 
-![xxx](https://drive.google.com/open?id=1j_sBegJhpddQG_dwtWwB1iBge_HKGr5I)
+![xxx](https://vectr.com/zgroska/b2XSTwfOpO.svg?width=132.18&height=41&select=b2XSTwfOpOpage0)
 
 Nem kaphat zöld / piros szöveget , de zöld / piros kiemelt szöveget kaphat a diff nyelvi sablon segítségével. Példa:
 
