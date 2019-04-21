@@ -6,7 +6,7 @@ a)
 <a style="color: red">color</a><a style="color: #00b050">Forth</a>
 
 b)
-<p style="color: red">color</p><a style="color: #00b050">Forth</a> 
+@color[#00b050](Forth)
 
 [GitHub Flavored Markdown Spec](https://github.github.com/gfm/#example-145)
 Version 0.29-gfm (2019-04-06
